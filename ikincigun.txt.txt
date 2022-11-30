@@ -9,4 +9,5 @@ GitGitHub Ucuncu Gun Ilk Deneme
 GitGitHub Ucuncu Gun Ikinci Deneme
 MASTER BRANCH YENI EKLEME
 GitGitHub Ucuncu Gun Yakup BRANCH'i ilk  Deneme
+MASTER BRANCH 2. EKLEME
 
